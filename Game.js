@@ -26,6 +26,7 @@ class Game {
         this.spanNumber.textContent = games;
         this.spanWins.textContent = wins;
         this.spanLosses.textContent = losses;
+        this.inputBid.value = "";
 
     }
     startGame() {
