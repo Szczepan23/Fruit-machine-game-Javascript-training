@@ -1,1 +1,1 @@
-[live](https://szczepan23.github.io/Fruit-machine-game-Javascript-training/)
+[live](https://rafal-szczepanik.github.io/Fruit-machine-game-Javascript-training/)
